@@ -1,0 +1,12 @@
+! 2024.7.28, csdn
+blog.csdn.net###article > div.creat-time-box:nth-child(2) > div.subject-talk-box:last-child > a.subject-talk > img.have-heart-img:first-child
+blog.csdn.net###article > div.creat-time-box:nth-child(2) > div.subject-talk-box:last-child > a.subject-talk > span:last-child
+blog.csdn.net###article > div.article_info.clearfix:nth-child(3) > div.top_user_mod.clearfix
+blog.csdn.net###article > div.creat-time-box:nth-child(2) > div.subject-talk-box:last-child > a.subject-talk
+blog.csdn.net###feed-open-app-btn
+blog.csdn.net###feed-Sign-weixin-btn
+blog.csdn.net###btn_open_app_prompt_item
+blog.csdn.net###operate > div.clearfix.content-box:last-child
+blog.csdn.net###operate > div.search-tag-box:first-child
+blog.csdn.net###main > div.aside-header-fixed:first-child
+blog.csdn.net###article > div.readall_box:last-child > div.btn_mod:last-child > div.btn_open_app_prompt_box.btn_open_app_prompt_box_testAb.active.abstyle.appFullText:last-child > a.open_app_channelCode.app_abtest_btn_open:first-child
